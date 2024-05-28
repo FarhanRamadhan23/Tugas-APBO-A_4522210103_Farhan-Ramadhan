@@ -4,4 +4,4 @@ www.plantuml.com/plantuml/png/TPF1hjCm44Nt-GehR80gJx3jwbLqXP2GQFVLA1wSeHEtiYUjAi
 ## Use Case
 
 ## ERD
-"C:\Users\Farhan Ramadhan\Downloads\erd daycare.png"
+![erd daycare](https://github.com/FarhanRamadhan23/Tugas-APBO-erd-usecase-class-diagram/assets/167953699/6901484c-b099-484c-8fdd-0a1481af2327)
